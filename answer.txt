@@ -1,0 +1,5 @@
+Q: What are the primary differences between an Array and a Hash. When/Why would you use one over the other?
+
+A: The primary differences between an Array and a Hashare are that an Array is an ordered collection, and a hash is an unordered collection.
+
+   You use an Array when you do a collection of objects in order, and keep their position in the same order. However, even though similar to an array, a hash is a kind of data structure, and can store any kind of data, insted of getting at that data by using its position, or index, you use a Hash to store and to get the data by using something called a Key.
